@@ -1,0 +1,9 @@
+.search_bar {
+  width: 20%;
+  border: 3px solid black;
+  padding: 5px;
+  height: 50px;
+  border-radius: 5px 0 0 5px;
+  outline: none;
+  color: black;
+}

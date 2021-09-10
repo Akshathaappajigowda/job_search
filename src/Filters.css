@@ -1,0 +1,8 @@
+.check_box {
+  padding-left: 20px;
+}
+.container {
+  flex-direction: column;
+  flex-wrap: wrap;
+  display: inline-block;
+}
